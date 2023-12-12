@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🎓 MS @ University of Illinois at Urbana-Champaign 
 - 🔭 I’m currently working on BeatMap and Movie Database projects~
 - 👀 I’m interested in Full Stack Software development and AI/ML!
-- 📚 I have experience in JavaScript/TypeScript, Python, R, React, Node.js, HTML & CSS, MySQL, MongoDB
+- 📚 I have experience in **JavaScript/TypeScript, Python, R, React, Node.js, HTML & CSS, MySQL, MongoDB**
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/trent-zhang-him/)! Check out [my portfolio](https://trentzhang.vercel.app/)!

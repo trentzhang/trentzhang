@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 MS @ University of Illinois at Urbana-Champaign 
-- 🔭 I’m currently working on BeatMap and Movie Database projects~
+- 🔭 I’m currently working on Relink AI Reasech project~
 - 👀 I’m interested in Full Stack Software development and AI/ML!
 - 📚 I have experience in **JavaScript/TypeScript, Python, R, React, Node.js, HTML & CSS, MySQL, MongoDB**
 
